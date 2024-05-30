@@ -48,7 +48,7 @@ taiko-mono/
 ...
 </pre>
 
-## Issues
+## Issues - new issues
 
 If you find a bug or have a feature request, please [open an issue](https://github.com/taikoxyz/taiko-mono/issues/new/choose).
 
